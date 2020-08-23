@@ -1,15 +1,13 @@
 /**
- * @name Discord Revamp
+ * @name Discord Revamp (Restored)
  * @version 1.0
  * @description A revamped discord, inspired by the discord's current website.
- * @source https://github.com/hellbound1337/discord-revamp
- * @authorId 426147523305144322
- * @author hellbound
- * @donate https://paypal.me/zzzmario
- * @invite pCc7q4Z
+ * @source https://github.com/senoe/discord-revamp
+ * @authorId 633785773157515265
+ * @author senoe
 **/
 
-@import url(https://raw.githack.com/hellbound1337/discord-revamp/master/src/source.css);
+@import url(https://raw.githack.com/senoe/discord-revamp/master/src/source.css);
 
 .theme-dark,
 .theme-light,

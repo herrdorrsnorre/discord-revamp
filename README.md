@@ -1,16 +1,13 @@
-# Discord Revamp [![CodeFactor](https://www.codefactor.io/repository/github/hellbound1337/discord-revamp/badge)](https://www.codefactor.io/repository/github/hellbound1337/discord-revamp)
+# Discord Revamp (Restored)
 A revamped discord based on discord's current website.
 
 # Downloads
-- [BetterDiscord](https://betterdiscord.net/ghdl?id=3316)
-- Powercord: `git clone https://github.com/hellbound1337/discord-revamp/`
+- [BetterDiscord](https://raw.githubusercontent.com/senoe/discord-revamp/master/DiscordRevamp.theme.css)
+- Powercord: `git clone https://github.com/senoe/discord-revamp/`
 
 # Previews
 <img src="https://i.imgur.com/9OccKsz.png"/>
 <img src="https://i.imgur.com/6xEH9hS.png"/>
 <img src="https://i.imgur.com/ZxIFZPb.png"/>
 
-# Support 
-- [Support Server](https://discord.gg/pCc7q4Z)
-- hellbound#9999 
 
