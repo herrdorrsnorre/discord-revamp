@@ -3,7 +3,7 @@ A revamped discord based on discord's current website.
 
 # Downloads
 - Powercord: cd into your plugins directory and type `git clone https://github.com/senoe/discord-revamp/`
-- [BetterDiscord/Other](https://raw.githubusercontent.com/senoe/discord-revamp/master/DiscordRevamp.theme.css): download this and put it in your themes directory
+- BetterDiscord: download [this](https://raw.githubusercontent.com/senoe/discord-revamp/master/DiscordRevamp.theme.css) and put it in your themes directory
 
 
 # Previews
